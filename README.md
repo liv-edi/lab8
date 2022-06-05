@@ -1,5 +1,7 @@
 ## Lab 8
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this lab we cerated a lab file and initialized it as a Node.js folder, installed the node-fetch package, added fastify starter code, added fastify and node-fetch require statements, and fetch JSONPlaceholder data.
 
 Technologies used for this lab:
